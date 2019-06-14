@@ -13,6 +13,9 @@
     "taro",
     "taro-ui"
   ],
+  "dependencies": {
+    "@minimal-taro-ui/base-style": "^0.0.1"
+  },
   "author": "fengtaotao082913@gmail.com",
   "license": "ISC"
 }

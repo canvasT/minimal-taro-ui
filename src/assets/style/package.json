@@ -1,21 +1,15 @@
 {
-  "name": "@minimal-taro-ui/button",
-  "version": "0.0.1-alpha.1",
+  "name": "@minimal-taro-ui/base-style",
+  "version": "0.0.2",
   "description": "",
   "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "publishConfig": {
-    "access": "public"
-  },
   "keywords": [
     "taro",
     "taro-ui"
   ],
-  "dependencies": {
-    "@minimal-taro-ui/base-style": "^0.0.1"
-  },
   "author": "fengtaotao082913@gmail.com",
   "license": "ISC"
 }
