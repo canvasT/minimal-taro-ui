@@ -1,7 +1,7 @@
 {
   "packages": [
     "src/assets/style",
-    "src/common/components",
+    "src/components",
     "src/components/*"
   ],
   "command": {
