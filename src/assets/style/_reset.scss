@@ -1,4 +1,4 @@
-@import '_variable';
+@import './_variable';
 
 *{margin:0;padding:0;-webkit-tap-highlight-color: transparent;}
 body{line-height:1.4;font-size:$--font-size;color:$--font-color;max-width:720px;margin:0 auto !important;font-family:$--font-family;-webkit-user-select: none;user-select: none;}

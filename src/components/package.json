@@ -1,0 +1,15 @@
+{
+  "name": "@minimal-taro-ui/main",
+  "version": "0.0.1-alpha.3",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "taro",
+    "taro-ui"
+  ],
+  "author": "fengtaotao082913@gmail.com",
+  "license": "ISC"
+}

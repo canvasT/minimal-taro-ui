@@ -1,7 +1,8 @@
 {
   "packages": [
     "src/assets/style",
-    "src/components/*"
+    "src/components/*",
+    "src/common/components/"
   ],
   "command": {
     "publish": {
