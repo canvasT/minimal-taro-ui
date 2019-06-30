@@ -1,13 +1,13 @@
 {
   "packages": [
     "src/assets/style",
-    "src/components/*",
-    "src/common/components/"
+    "src/common/components/",
+    "src/components/*"
   ],
   "command": {
     "publish": {
       "message": "release: lerna publish"
     }
   },
-  "version": "0.0.1-alpha.3"
+  "version": "0.0.1"
 }
